@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    tools:context="com.example.ayurveda_app.TurmericActivity">
+
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/scrollView"
+            android:layout_alignParentStart="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/turmeric"/>
+
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Turmeric"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:id="@+id/textView"
+        android:textAlignment="center"
+        />
+
+                <TextView
+                    android:id="@+id/tv2"
+                    android:layout_width="232dp"
+                    android:layout_height="27dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/text_border"
+                    android:text="@string/bn_turmeric"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <TextView
+                    android:id="@+id/tv3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/turmeric_txt"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <TextView
+                    android:id="@+id/tv4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/text_border"
+                    android:text="Benefits of Turmeric  "
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                    <TextView
+                        android:id="@+id/tv5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="1dp"
+                        android:text="@string/tur_txt"
+                        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <TextView
+                    android:id="@+id/tv6"
+                    android:layout_width="256dp"
+                    android:layout_height="22dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/text_border"
+                    android:text="@string/tu_q"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <TextView
+                    android:id="@+id/tv7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="86dp"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/tu_1"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <TextView
+                    android:id="@+id/tv8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="77dp"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/tu_2"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        </LinearLayout>
+        </ScrollView>
+</RelativeLayout>

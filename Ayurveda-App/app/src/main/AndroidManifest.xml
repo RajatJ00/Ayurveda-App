@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AyurvedaApp"
+        tools:targetApi="31">
+        <activity
+            android:name=".LogoutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".AboutActivity" />
+        <activity android:name=".AcidityActivity" />
+        <activity android:name=".AcneActivity" />
+        <activity android:name=".AdvanceActivity" />
+        <activity android:name=".AlmondActivity" />
+        <activity android:name=".AloeVeraActivity" />
+        <activity android:name=".AmlaActivity" />
+        <activity android:name=".BlackPepperActivity" />
+        <activity android:name=".CinnamonActivity" />
+        <activity android:name=".CorianderActivity" />
+        <activity android:name=".DarkCircleActivity" />
+        <activity android:name=".DiabetesActivity" />
+        <activity android:name=".DiseasesActivity" />
+        <activity android:name=".EasyActivity" />
+        <activity android:name=".FoodsActivity" />
+        <activity android:name=".GarlicActivity" />
+        <activity android:name=".GoodDigestionActivity" />
+        <activity android:name=".GingerActivity" />
+        <activity android:name=".HaradActivity" />
+        <activity android:name=".HeadacheActivity" />
+        <activity android:name=".HealthActivity" />
+        <activity android:name=".HeartBrainActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".IntermediateActivity" />
+        <activity android:name=".ImmunityActivity" />
+        <activity android:name=".KhapaActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".MouthUlcerActivity" />
+        <activity android:name=".NeemActivity" />
+        <activity android:name=".PigmentationActivity" />
+        <activity android:name=".PittaActivity" />
+        <activity android:name=".PrakritiActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".CategoryActivity" />
+        <activity android:name=".SkinActivity" />
+        <activity android:name=".SummerActivity" />
+        <activity android:name=".StomachAcheActivity" />
+        <activity android:name=".TanningActivity" />
+        <activity android:name=".ThyroidActivity" />
+        <activity android:name=".TurmericActivity" />
+        <activity android:name=".VataActivity" />
+        <activity android:name=".WinterActivity" />
+        <activity android:name=".YogaActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

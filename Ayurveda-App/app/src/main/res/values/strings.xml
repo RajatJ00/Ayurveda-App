@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">Ayurveda App</string>
+
+    <string name="ayurveda_info">       <b>A</b>yurveda is a complete system of health. It is both preventive and curative, and originated in India thousands of years ago. It is trusted science to heal people completely (Body, soul and mind) including COVID.</string>
+
+    <string name="ayurveda_info1"><b>8 Health Benefits of Ayurveda</b>
+    Integrating Ayurveda into your life can be immensely beneficial to your overall sense of wellness, but what are some specific issues it can help with? Let’s explore eight distinct areas in which Ayurveda can improve your health:
+
+    1. Prevention
+    The traditional practice of Ayurveda is used to treat the cause as opposed to the symptom. It is therefore considered to be more preventative in nature than many other forms of medicine. Ayurveda can show you how to support your immune system and minimize the stress that often leads to imbalances and illness, getting to the root of the problem.
+
+    2. Daily Routine
+    Learning about Ayurveda can help you establish a dinacharya, or daily routine, to help you feel grounded, stable, and ready to start each day. Your daily routine might involve cleaning your tongue upon waking, practicing some yoga or meditation daily, and soothing your system periodically with a loving oil massage.
+
+    3. Ayurvedic Diet and Food Combining
+    Ayurveda has many diet and food combining suggestions to help maximize the agni, or digestive fire. Learning about your constitution and state of balance will help you determine which dietary choices are right for you.
+
+    4. Exercise: Ayurveda and Yoga
+    Certain asanas can have a cooling or heating effect on the body. Learning yoga poses from an Ayurvedic perspective is helpful for determining which poses would bring you optimal wellness.
+
+    5. Ayurvedic Herbal Support
+    Ayurveda has many insights into the world of herbal medicine. While we always encourage reaching out to a practitioner for additional guidance, discovering more about Ayurveda can help you learn more about Ayurvedic herbs, as well as which method of taking herbs is right for you.
+
+    6. Ayurveda for Energy and Vitality
+    Ayurveda’s approach to energy and vitality is multifaceted, with a special focus on adrenal health. By supporting your adrenals and finding natural sources of energy, you can stay active and doing what you love without experiencing a crash or depleting yourself afterward.
+
+    7. Ayurveda for Beauty
+    The Ayurvedic perspective on beauty focuses on the whole being, body, mind, and spirit. Ayurveda has tips for luscious hair, smooth skin, and more. Its holistic approach will leave you feeling beautiful from the inside out.
+
+    8. Ayurveda for Sleep
+    A surprising number of life’s challenges are caused by imbalanced sleep. Whether you need to sleep more or less, Ayurvedic methods can help improve your waking hours by helping you get to bed peacefully and consistently.</string>
+
+    <!--Foods-->
+    <string name="bn_turmeric" translatable="false">Botanical Name: "Curcuma" </string>
+    <string name="turmeric_txt">Rich in phytonutrients that may protect the body by neutralizing free radicals (pollution, sunlight) and shielding the cells from damage. </string>
+    <string name="tur_txt">
+        1. Turmeric decoction is beautifying. female | All men mix turmeric with gram flour, cream and apply it on the face and wash it after drying. The mouth will become soft and will enhance the look.
+        2.  Turmeric removes blood disorders. Blood is purified by eating it. Giving turmeric milk to a pregnant woman increases blood and heals wounds quickly.</string>
+    <string name="tu_q">Who should not use turmeric? </string>
+    <string name="tu_1">1. High doses of turmeric could have a blood-thinning effect; if taken on top of prescribed anticoagulants, this could increase the risk of dangerous bleeding.</string>
+    <string name="tu_2">2. People with liver or bile duct problems should not take turmeric supplements, as they can increase bile production.</string>
+
+    <string name="bn_neem" translatable="false">Botanical Name: "Azadirachta indica" </string>
+    <string name="neem_txt">Neem leaf is used for leprosy, eye disorders, bloody nose, intestinal worms, stomach upset, loss of appetite, skin ulcers, diseases of the heart and blood vessels (cardiovascular disease), fever, diabetes, gum disease (gingivitis), and liver problems. The leaf is also used for birth control and to cause abortions. </string>
+    <string name="ne_txt">
+        1. The health benefits of almonds include lower blood sugar levels, reduced blood pressure and lower cholesterol levels.
+        2. Burning fresh neem shoots/leaves in chalamongra oil and applying the oil on eczema is beneficial.
+        3. Grind neem leaves finely and put a bandage on the boils/broken hairs, the boil ripens and bursts, the wound also heals.
+        4. Massage with neem oil. Relief comes in arthritis, joint pain and rheumatism.
+        5. Mixing camphor in 11 neem oil and applying it is beneficial in urticaria.</string>
+    <string name="ne_q">How many days take neem juice? </string>
+    <string name="ne_1">A small quantity of Neem Juice 2 to 3 times in a week can help keep blood sugar levels under check. Apart from using fresh herbs like neem to make Neem Juice, you can also try other herbal drinks like Herbal Caffeine Free-Tea or Fresh Herbal Tea.</string>
+
+    <string name="bn_almond" translatable="false">Botanical Name: "Phyllanthus emblica" </string>
+    <string name="almond_txt">Amla - Gooseberry is very rich in Iron, Vitamin C and Calcium </string>
+    <string name="almo_txt">
+        1. Almond prevent from sunburned skin.
+        2. Almond helps skin brighter.
+        3. They can also reduce hunger and promote weight loss.
+        4. The health benefits of almonds include lower blood sugar levels, reduced blood pressure and lower cholesterol levels.</string>
+    <string name="alm_txt">What happens if you eat almonds a day? </string>
+    <string name="alm_1">1. Eating almonds can reduce the risk of heart disease by keeping blood vessels healthy, research from Aston University has shown.</string>
+    <string name="alm_2">2. Snacking on 50g almonds every day -significantly- increases the amount of antioxidants in the bloodstream, reduces blood pressure and improves blood flow, scientists found.</string>
+    <string name="alm_3" tools:ignore="TypographyDashes">3. For making Almond Cream take some 10-15 almonds and soak it in water for overnight. Remove its skin.</string>
+    <string name="alm_4">4. Take all those almonds and add some rose water and grind it well with the help of grinder.</string>
+
+    <string name="bn_amla" translatable="false">Botanical Name: "Phyllanthus emblica" </string>
+    <string name="Amla_txt">Amla - Gooseberry is very rich in Iron, Vitamin C and Calcium </string>
+    <string name="aml_txt">
+        1. Supports healthy metabolism, digestion and elimination.
+        2. Promotes anti-inflammatory properties that cool, tone, and nourish tissues and organs.
+        3. Supports healthy metabolism, digestion and elimination.</string>
+    <string name="am_txt">How to make Amla hair oil at home? </string>
+    <string name="one_txt">1. Grate the Amla first and discard the pit. If you like you can use a blender.</string>
+    <string name="two_txt" tools:ignore="TypographyDashes">2. Squeeze out the Amla juice. Add coconut oil to it and whip it together for 4-5 minutes.</string>
+    <string name="three_txt">3. Place the whipped oil in hot water until it goes liquid. Your freshly made Amla oil is ready.</string>
+
+
+    <string name="bn_aloe" translatable="false">Botanical Name: "Aloe barbadensis miller" </string>
+    <string name="Aloe_txt">Aloe - Vitamins, Minerals, Sugars, Enzymes, Salicylic acids, and Amino acids </string>
+    <string name="alo_txt">
+        1. Cleansing and Detox. Consuming aloe vera juice helps to clear and detox your digestive system.
+        2. Potential uses of Aloe vera juice for Diabetes.</string>
+    <string name="alo_q">How to make Aloe for skin care at home? </string>
+    <string name="alo_1">1. Its quick sunburn relief. Simply slather on the gloop on inflamed areas and feel it instantly soothe.</string>
+    <string name="alo_2">2. As a face mask for cooling, soothing face mask, aloe vera regins superme.</string>
+
+
+    <string name="bn_hr" translatable="false">Botanical Name: "" </string>
+    <string name="harad_txt"> </string>
+    <string name="hr_txt">
+        1. </string>
+    <string name="hr_q"> </string>
+    <string name="hr_1">1.</string>
+    <string name="hr_2">2.</string>
+    <string name="hr_3">3. .</string>
+
+
+    <string name="bn_gi" translatable="false">Botanical Name: "Zingiber officinale" </string>
+    <string name="ginger_txt">Gingerol, a natural component of ginger root, benefits gastrointestinal motility ― the rate at which food exits the stomach and continues along the digestive process. Eating ginger encourages efficient digestion, so food doesn\'t linger as long in the gut. Nausea relief.</string>
+    <string name="gi_txt">
+        1. Its use is beneficial in heart diseases, infections, colds, colds etc.
+        2. Taking it is beneficial in shortness of breath, headache due to cold, cold etc.
+        3. It also gives relief in the problem of vomiting etc. while traveling.</string>
+    <string name="gi_q">What the best way to eat ginger?</string>
+    <string name="gi_1">1. Chop or grate it into sauces, salad dressings, or right on top of your salad, poultry or seafood.</string>
+    <string name="gi_2">2. Drink freshly brewed tea steeped along with a thumbnail piece of chopped ginger daily.</string>
+    <string name="gi_3">3. Snack on candied ginger or make it part of your dessert. Use pickled ginger as a condiment.</string>
+
+
+    <string name="bn_ga" translatable="false">Botanical Name: "Allium sativum" </string>
+    <string name="garlic_txt">Garlic is widely recognized for its ability to fight bacteria, viruses, fungi, and even parasites. One study found that allicin, an active component of freshly crushed garlic, had antiviral properties and was also effective against a broad range of bacteria, including multidrug-resistant strains of E. coli.</string>
+    <string name="ga_txt">
+        1. Garlic Helps Detox Your Body.
+        2. Garlic Helps Boost Your Body\'s Immune System.
+        3. Garlic Can Help With Prevention of Cancer.</string>
+    <string name="ga_q">What happens if you eat garlic in empty stomach?</string>
+    <string name="ga_1">1. Eating a few garlic cloves on an empty stomach in the morning helps in reducing weight as it dissolves accumulated body fat.</string>
+    <string name="ga_2">2. The boosting level which is present in garlic helps to burn calories faster.</string>
+    <string name="ga_3">3. It makes you feel full for a long time and minimises any carving.</string>
+
+
+    <string name="bn_co" translatable="false">Botanical Name: "Coriandrum sativum" </string>
+    <string name="coriander_txt">Coriander is used as a culinary spice and to prevent food poisoning. In manufacturing, coriander is used as a flavoring agent in medicines and tobacco and as a fragrance in cosmetics and soaps.</string>
+    <string name="co_txt">
+        1. Coriander is very good food for digestive system, coriander promotes liver functions and bowel movements.
+        2. Coriander pepper, astringent and face to lighten gastric fire gonna happen.
+        3. It is also digestive and antipyretic.</string>
+    <string name="co_q">Can we eat coriander daily? </string>
+    <string name="co_1">Apart from this, daily consumption of fresh coriander leaves may help boost your immunity, lower bad cholesterol, soothe your skin, ease digestion, aids blood sugar levels and improve bone health.</string>
+
+
+    <string name="bn_blp" translatable="false">Botanical Name: "Piper nigrum" </string>
+    <string name="blackpepper_txt">The antioxidant-rich spice effectively fights free radicals that are responsible for causing wrinkles and saggy skin. Add black peppers to your daily diet to fight the signs of ageing. Alternatively, you can combine a teaspoon of crushed black pepper with equal portions of turmeric and honey. </string>
+    <string name="blp_txt">
+        1. Black pepper helps to stimulate hydrochloric acid in your stomach so you can better digest and absorb the foods you eat.
+        2. It has carminative properties too, which help to reduce discomfort and gas buildup in your intestines.</string>
+    <string name="blp_q">Who should avoid black pepper? </string>
+    <string name="blp_1">1. The scientific community recommends against the use of black pepper during pregnancy.</string>
+    <string name="blp_2">2. Its pungency can cause a burning sensation to the body of the fetus.</string>
+    <string name="blp_3">3. In a female mice study, the piperine in black pepper was found to interfere with several reproductive events.</string>
+
+
+    <string name="bn_ci" translatable="false">Botanical Name: "Cinnamomum verum" </string>
+    <string name="cinnamon_txt">Cinnamon is a fragrant spice with a warm, sweet flavour, popularly used in baked goods, curries and confectionary. It is commonly available as small rolls of bark or ground into a powder, but can also be distilled into an essential oil, which is used in food, liqueur, perfume and even drugs. </string>
+    <string name="ci_txt">
+        1. The risk of dehydration increases when diarrhea occurs.
+        2. In this situation, cinnamon is very beneficial. Making and drinking cinnamon tea gives benefits. Cinnamon is a natural astringent, which reduces water from the intestines.
+        3. Add one spoon of cinnamon powder in a cup of hot water and soak it for 10-15 minutes, then boil and drink.</string>
+    <string name="ci_q">How does cinnamon powder reduce belly fat? </string>
+    <string name="ci_1">Boil a cinnamon stick in water till its gets fragrant. Squeeze a dash of lemon in it and add one teaspoon of raw honey to it. Your weight loss drink is ready. You can also include some other spices like ginger, pepper, cardamom and mint to make the concoction even healthier and tastier.</string>
+
+    <!--Disease-->
+    <string name="ulcer_general_info">
+        Mouth ulcers are very painful. Even you cannot take a sip of water. The improper digestion, stomach infections,
+        intake of Paan are the major reasons behind happening of mouth ulcers.</string>
+    <string name="homemade_remedies">Some homemade remedies to get rid of mouth ulcers</string>
+    <string name="remedies_1">1. You can apply glycerin on the ulcers. This helps in reducing dryness and pain. It hydrates your skin.</string>
+    <string name="remedies_2">2. Allowing ice chips to melt over the ulcers or rinsing your mouth with salt water or baking soda and water may help to lessen pain.</string>
+    <string name="remedies_3">3. Avoiding spicy, acidic and abrasive foods may also help.</string>
+    <string name="remedies_4">4. You can apply Ghee over the ulcer which helps in softening of skin all around the ulcer and then consume coconut will also help.</string>
+    <string name="remedies_5">5. You can even consume three to four leaves of Mogra tree, can also help.</string>
+
+    <string name="ache_general_info"> </string>
+    <string name="homemade_remedies10"> </string>
+    <string name="remedies_10"> </string>
+    <string name="remedies_20"> </string>
+    <string name="remedies_30"> </string>
+    <string name="remedies_40"> </string>
+    <string name="remedies_50"> </string>
+
+    <string name="headache_general_info">Headache is pain in any region of the head. Headaches may occur on one or both sides of the head, be isolated to a certain location, radiate across the head from one point, or have a viselike quality. A headache may appear as a sharp pain, a throbbing sensation or a dull ache.</string>
+    <string name="homemade_remedies100"><b>Symptoms</b>
+        Slow onset of the headache
+        Head usually hurts on both sides
+        Pain is dull or feels like a band or vice around the head
+        Pain may involve the back part of the head or neck
+        Pain is mild to moderate, but not severe</string>
+    <string name="remedies_100">Drink more water
+        Dehydration may be the cause of your headache. Luckily, the solution is rather simple: increase your water intake.</string>
+    <string name="remedies_200">Drinking more water may help to alleviate a headache as well as prevent other ones in the future.</string>
+    <string name="remedies_300">Most people will find relief from a dehydration headache within 30 minutes to three hours of drinking water.</string>
+    <string name="remedies_400">Try essential oils
+        Peppermint and lavender oils seem to be the most helpful for headache relief. They both have relaxing properties that may assist with pain relief.</string>
+    <string name="remedies_500">Massage pressure points
+        Treating headaches might just be as simple as applying pressure to certain pressure points on your body.</string>
+
+    <string name="acidity_general_info">Acidity or acidosis leads to the imbalance of pH in the body, it usually happens when the kidney and lungs are unable to remove excess acid in the body. This thus then leads to acidity.</string>
+    <string name="homemade_remedies1000"> <b>Symptoms</b>
+        Heartburn: A burning pain or discomfort that may move from the stomach to the abdomen, chest, or even up to the throat.
+
+        Regurgitation: A bitter or sour-tasting acid will back into the throat or mouth that eventually makes sores in the spots.
+
+        Stomach bloating, Hematemesis, bloody or black tarry stool, frequent burps, difficulty in swallowing, continuous hiccups, nausea, vomiting, feeling fullness always, chronic sore throat, persistent dry cough, restlessness, indigestion, and unexpected weight loss.</string>
+    <string name="remedies_1000">Almonds: It neutralises the stomach juice, relieves the pain and prevents acidity entirely.</string>
+    <string name="remedies_2000">Munch almonds when you are in a situation of not taking your meals so that it avoids excessive acid secretion. Take 4 almonds after eating.</string>
+    <string name="remedies_3000">Banana and Apple: Banana contains antacids naturally that fight against acidity and intake of a few slices of apple before bedtime helps in relieving heartburn or reflux.</string>
+    <string name="remedies_4000">Coconut water: While drinking coconut water, the body’s pH acidic level turns alkaline and it produces mucus in the stomach.</string>
+    <string name="remedies_5000">Enough sleep: Go for at least 7 hours continuous sleep.</string>
+
+    <string name="diabetes_general_info">Diabetes, your body doesn\'t make enough insulin or can\'t use it as well as it should. When there isn\'t enough insulin or cells stop responding to insulin, too much blood sugar stays in your bloodstream. Over time, that can cause serious health problems, such as heart disease, vision loss, and kidney disease</string>
+    <string name="homemade_remedies10000"><b>Symptoms</b>
+        Feeling more thirsty than usual.
+        Urinating often.Losing weight without trying.
+        Presence of ketones in the urine.
+        Ketones are a byproduct of the breakdown of muscle and fat that happens when there\'s not enough available insulin.
+        Feeling tired and weak.
+        Feeling irritable or having other mood changes.
+        Having blurry vision.
+        Having slow-healing sores.
+        Getting a lot of infections, such as gum, skin and vaginal infections.</string>
+    <string name="remedies_10000"> <b>Stress management:-</b> Stress might be the reason behind your rising blood sugar levels.</string>
+    <string name="remedies_20000">Learning ways to manage stress might be of help in such conditions.</string>
+    <string name="remedies_30000">Deep breathing, walking, meditation, working out, pursuing a hobby, gardening, and listening to your favourite music might be helpful to destress.</string>
+    <string name="remedies_40000">Approaching a mental health counsellor and asking for help might also be a good first step towards coping with stress better.</string>
+    <string name="remedies_50000">Therefore, you should discuss this with your doctor and reach a proper conclusion regarding methods of stress management.</string>
+
+    <string name="thyroid_general_info">The thyroid is a small, butterfly-shaped gland located at the base of the neck, just below the Adam\'s apple. The thyroid gland makes two main hormones: thyroxine (T-4) and triiodothyronine (T-3). These hormones affect every cell in the body. They support the rate at which the body uses fats and carbohydrates.</string>
+    <string name="homemade_remedies100000"> <b>Symptoms</b>
+        Tiredness.
+        More sensitivity to cold.
+        Constipation.
+        Dry skin.
+        Weight gain.
+        Puffy face.
+        Hoarse voice.
+        Coarse hair and skin.
+        Muscle weakness.
+        Muscle aches, tenderness and stiffness.
+        Menstrual cycles that are heavier than usual or irregular.
+        Thinning hair.
+        Slowed heart rate,also called bradycardia.
+        Depression.
+        Memory problems</string>
+    <string name="remedies_100000">Coconut Oil:-
+Coconut oil has medium-chain fatty acids that help in better functioning of the thyroid gland.</string>
+    <string name="remedies_200000">Coconut oil, specifically when taken in a non-heated form, helps lose weight, increases metabolism and balances body temperature.</string>
+    <string name="remedies_300000">Apple Cider Vinegar:-
+Apple cider vinegar helps in the balanced production and expression of hormones.</string>
+    <string name="remedies_400000">It improves metabolism and helps to alkalize the body environment.
+Apple cider vinegar helps regulate body fats, wash away toxins from the body, and absorption of nutrients.</string>
+    <string name="remedies_500000">Dairy Products:-
+Milk, cheese, and yoghurt are very beneficial for the thyroid as they are high in iodine, the mineral that is essential for proper thyroid functioning. Consuming dairy products will also help with increasing vitamin levels which in turn will help with thyroid problems.</string>
+
+    <!--Skin Care-->
+    <string name="acne_txt"><b>What Acne is?</b></string>
+    <string name="acn_txt">Acne is a skin condition in which there is excess production of Sebum (oil) from the sebaceous glands leading to thethe sebaceous glands leading to the blockage of hair follicles. It is the most common problem of adolescents, and is therefore known as Yauvanapidika in Ayurveda.   Ayurveda provides effective root-cause Solutions to Acne and Most of the Skin Problems. </string>
+    <string name="ac_txt"><b>Causes: </b></string>
+    <string name="ac_1">The primary cause is impairment of Agni which leads to imbalance of all the three doshas, predominantly the Pitta dosha, which further vitiates the rakta and meda dhatus (blood and fat tissues). doshas produce toxins that block the Srotas (Microscopic channels) of the affected areas leading to pimple formation. Even if the Scalp has more Oil that can lead to Acne and Pimples.</string>
+    <string name="ac_2"><b>Treatment of Acne &amp; Pimples</b></string>
+    <string name="ac_3">Diet &amp; Lifestyle Advice:</string>
+    <string name="ac_4">•Avoid spicy, oily and sour foods
+•Eat more of fresh Fruits and Vegetables, unprocessed food
+•Add tumeric in your daily diet
+•Increase intake of water to about 8-10 glasses per day
+•Take probiotin foods like yogurt, kimchi
+•Wash your face frequently with Soap Free Herbal Face washes
+•Avoid irritant cosmetics
+•Do not squeeze the acne lesions</string>
+
+    <string name="darkcircle_txt"><b>What Darkcircle is?</b></string>
+    <string name="darkc_txt">Dark circles are quite common and usually don’t imply a serious health concern. However, their appearance still causes a lot of stress among people. Even if you take good care of your skin and have a healthy complexion, the appearance of those darkened areas under the eyes will make you look old, tired, and dull.</string>
+    <string name="dark_txt"><b>Causes: </b></string>
+    <string name="dark_1">•lack of sleep or poor sleeping habit
+•Sun exposure
+•allergies, including hay fever </string>
+
+    <string name="pigme_txt"><b>WHAT IS SKIN PIGMENTATION?</b> </string>
+    <string name="pigm_txt">Skin pigmentation or hyper-pigmentation is a broader term used to describe dark spots or patches or even general darkening of the skin. The melanin pigment responsible for giving us our skin colour is usually evenly distributed in the skin. Dark spots are just one form of skin pigmentation. Ayurveda provides effective root-cause Solutions to Acne and Most of the Skin Problems. </string>
+    <string name="pig_txt"><b>Causes: </b></string>
+    <string name="pig_1">•Hormonal changes
+•Sun exposure
+•Inflammation
+•Irritation due to certain products
+•Diabetes</string>
+
+    <string name="tann_txt"><b>HOW TO REMOVE SKIN TAN</b></string>
+    <string name="bn_tan"><b>6 EFFECTIVE HOME REMEDIES: </b></string>
+    <string name="tan_txt">1. Lemon Juice And Honey:
+    How to apply -
+    Squeeze fresh lemon juice and add some honey to it. Apply the mixture on your skin and let it stay for 30 minutes before washing off with a mild cleanser.
+You can also add some sugar to the lemon juice to make a scrub. In addition to removing tan, this will also slough off dead cells from the surface.</string>
+    <string name="ta_1">2. Coconut Milk:
+    How to apply -
+    Soak a cotton ball in fresh and organic coconut milk and dab it all over the face. Leave it on till it’s absorbed into the skin or dries completely. Wash it off with a mild cleanser.</string>
+    <string name="ta_2">3. Oatmeal And Buttermilk:
+    How to apply -
+    Soak 2 teaspoons of oats or oatmeal in half cup of water for about five minutes. Add 2-3 teaspoon of fresh, plain buttermilk to it and mix well. You can add honey as well to make the pack more moisturizing.
+    Mix these ingredients well to form a paste and then apply it to your face, neck, arms and other areas affected by tanning.
+    Rub in a circular motion and let it stay for about 20 minutes. Wash off with reveal fresh, brighter looking skin.</string>
+
+    <!--Yogasana-->
+    <string name="easy_txt"><b>Child Pose</b> (Balasana)
+        1. Great for stress, depression, and anxiety
+        2. Relaxes upper back, neck and arms
+        3. Helps sleep better at night</string>
+    <string name="eas_txt"><b>Butterfly Pose</b> (Baddha Konasana)
+        1. Great hip opener and posture corrector
+        2. Stretches and relaxes shoulders and lower back
+        3. Relieves from neck pain and anxiety</string>
+    <string name="easy_1"><b>Cat Pose</b> (Bidalasana / Marjaryasana)
+        1. Relaxes back and tones abdomen
+        2. Aids in weight loss
+        3. Rejuvenates body and mind</string>
+    <string name="easy_2"><b>Cow Pose</b> (Bitilasana / Goasana)
+        1. Great restorative pose for lower back stiffness
+        2. Strengthens arms and knees
+        3. Good for students looking to enhance focus</string>
+    <string name="easy_3"><b>Lion Pose</b> (Simha Vajrasana)
+        1. Provides relief in reproductive health issues
+        2. Good for back pain
+        3. Strengthens arms and back</string>
+    <string name="easy_4"><b>Seated Forward Bend Pose</b> (Paschimottanasana)
+        1. Stretches legs and back
+        2. Stimulates abdominal organs
+        3. Relaxes mind</string>
+
+    <string name="inter_txt"><b>Bridge Pose</b> (Setu Bandhasana)
+        1. Strengthens neck and shoulders
+        2. Massages abdominal organs and kidneys
+        3. Tones lower back and calves</string>
+    <string name="inte_txt"><b>Cobra Pose</b> (Bhujangasana)
+        1. Improves focus and retention
+        2. Enhances cardiovascular capacity
+        3. Tones abdomen and lower back</string>
+    <string name="inter_1"><b>Eagle Pose</b> (Garudasana)
+        1. Great for balance
+        2. Good for respiratory problems
+        3. Tones calves, thighs and arms</string>
+    <string name="inter_2"><b>Garland Pose</b> (Malasana)
+        1. Massages abdominal organs and improves digestion
+        2. Tones calves and hips
+        3. Strengthens ankles and improves balance</string>
+    <string name="inter_3"><b>Full Pigeon Pose</b> (Purna Kapotasana)
+        1. Deep stretches abdomen
+        2. Beneficial in thyroid disorders
+        3. Tones hips, calves and arms</string>
+    <string name="inter_4"><b>Pyramid pose</b> (Parsvottanasana)
+        1. Stretches back, groin and inner thighs
+        2. Tones abdomen and lower body
+        3. Great for weight and fat loss</string>
+
+    <string name="advance_txt"><b>Firefly Pose</b> (Tittibhasana)
+        1. Improves wrist strength and hand grip
+        2. Tones back of thighs and abdomen
+        3. Enhances balance and focus</string>
+    <string name="ad_txt"><b>Peacock Pose</b> (Mayurasana)
+        1. Good for working on focus
+        2. Strengthens and tones arms and upper back
+        3. Tones lower body and back</string>
+    <string name="ad_1"><b>Compass Pose</b> (Parivrtta Surya Yantrasana)
+        1. Improves digestion
+        2. Provides relief in respiratory disorders
+        3. Develops patience</string>
+    <string name="ad_2"><b>Headstand</b> (Sirsasana)
+        1. Improves balance and focus
+        2. Strengthens upper body
+        3. Avoid if you have neck injury or migraine</string>
+    <string name="ad_3"><b>Dancer Pose</b> (Nataranjasana)
+        1. Great hip opener and balance enhancer
+        2. Improves mental focus and back flexibility
+        3. Sculpts arms and calves</string>
+    <string name="ad_4"><b>Dove Pose</b> (Vajra Kapotasana)
+        1. Increases blood circulation in spine and head
+        2. Strengthens shoulders and knees
+        3. Stretches quadriceps and chest muscles</string>
+
+    <!--Health Tips-->
+    <string name="good_digestion">PRINCIPLES FOR GOOD DIGESTION IN AYURVEDA</string>
+    <string name="gdig_0">According to Ayurveda, digestive problems are the basis of almost all diseases. If the digestive system works well and properly, many of the diseases can be prevented and the problems that have already occurred are eliminated.</string>
+    <string name="gdig_1"><b>1. Constipation? Drink ghee, salt, and hot water</b>
+        “Consume a drink made with ghee, salt, and hot water. Ghee helps lubricate the inside of the intestines and salt removes bacteria”. Ghee contains butyrate acid, a fatty acid with anti-inflammatory effects that may help with digestion.
+        Home recipe for constipation
+        •Mix 1 tsp fresh ghee and 1/2 tsp salt into 1/4 cup hot water
+        •Stir well.
+        •Sit and sip this drink slowly. Should be consumed an hour after dinner.</string>
+    <string name="gdig_2"><b>2. Bloated? Try warm water and fennel seeds or ginger</b>
+        If you don’t want to prepare a hot drink, chewing on fennel seed after eating can aid the digestion process and reduce gas and bloating. If you’re a tea drinker, reach for mint tea for fennel tea to help with bloat.
+        Home recipe for constipation
+        •Toast 1 tsp fennel seeds and mix in 1 cup of boiled water
+        •Add a few pieces of fresh ginger, a pinch of hing (asafoetida), and pinch of rock salt to the boiled water.
+        •Sip this slowly after your meal.</string>
+    <string name="gdig_6"><b>Conclusion</b>
+        Happiness: a good bank account, a good cook, and a good digestion.</string>
+
+    <string name="heart_and_brain">BEST FOODS FOR HEART AND BRAIN</string>
+    <string name="hb_0">Taking care of your brain may be as simple as eating the right foods, and consuming proper amounts of vitamins and other nutrients to support your heart, brain and muscles, too. Consistent exercise and other regular healthy habits (sound sleep) will help bolster your brain, too.</string>
+    <string name="hb_1"><b>1. Papaya</b>
+        It contains Beta-carotene, beta-cryptoxanthin, lutein (carotenoids); Vitamins C and E; folate; calcium; magnesium; potassium. Once or twice a week is beneficial eaten fresh, but don’t use papaya supplements.</string>
+    <string name="hb_2"><b>2. Amla – Indian Gooseberries</b>
+        Beta- and alpha-carotene, lutein (carotenoids); vitamin C; potassium; folate; fiber. Add amla powder into your routine dishes.</string>
+    <string name="hb_6"><b>Conclusion</b>
+    Healthy eating for a strong heart beating. </string>
+
+    <string name="immune">Boosting The Immune System With Ayurveda</string>
+    <string name="im">In Ayurveda the immune system is called ojas. It is a fine vital energy, concentrated in the heart chakra. When the health of a man gets weaker, this is a sign that the ojas energy in the body has decreased. When the ojas level is low, people are vulnerable to various infections illnesses such as ulcers, even cancer.
+        Ayurveda believes that the negative emotions also can be a reason for ojas decreasing. Such feelings are hatred, anger, worry, guilt, envy, jelaousy, excessive fatigue or hunger.
+        It is important to highlight that the unhealthy food, especially those containing refined sugar, reduce the ability of the cells to cope with the viral infections. The good health is a sign that our immune system works as it should be.</string>
+    <string name="im0"><b>Which Ayurveda foods boost immunity?</b>
+        Ayurveda recommends the dairy products such as homemade milk, paneer (a type of Indian cheese), as well the popular Indian cow\‘s butter – ghee, for boosting the ojas energy. Organic fresh milk and ghee are valued by Ayurveda due to their ability to stimulate ojas. The milk can be warmed before drinking and a pinch of cardamom can be added to it because then digestion becomes even easier. But it should be consumed separately from the main dishes.</string>
+    <string name="im_0">The wholegrain foods such as quinoa, amaranth, flax seeds also have a positive effect on the weak immune system, because of the content of fiber and valuable nutrients, that clean the whole organism from the toxic substances.</string>
+    <string name="im_1"><b>Add to your dishes immune stimulating spices</b>
+    The different spices have their own specific immune stimulating properties:</string>
+    <string name="im_21">• The turmeric, for example, has a strong immune stimulating effect that is due to its ability to remove toxins from the body and it stimulates \'the intelligence\' of the cells of the immune system.</string>
+    <string name="im_3"><b>We have to relax</b>
+        For good immunity, Ayurveda recommends to be physically active and to provide a proper recovery to our body, in order to give it a chance to strengthen its resistant forces. The best way to do this is with walking, mountain hiking, meditation, yoga practices,pranayama breathing techniques.</string>
+    <string name="im_4"><b>Conclusion</b>
+        <i>So, according to Ayurveda not only the food that we eat is important, but also the way we eat. It is desirable to eat slowly, to chew the food well, so that we can maximize the process of digestion as well the absorption of the nutrients. </i></string>
+
+    <string name="top_summer_foods">TOP SUMMER FOODS BY AYURVEDA FOR YOUR DIET</string>
+    <string name="s_0">The right foods eaten according to the season can help promote sattva (purity), detox and rejuvenate the body that further leads to an overall boost in the immunity, physical and mental strength and digestion.</string>
+    <string name="s_1"><b>1. Sattu</b>
+    Sattu is typically made of Bengal gram and is said to have an instant cooling effect on the body. It is high in insoluble fibre that makes it good for your intestines, and is low on glycaemic index making it good for diabetics. A perfect cooling agent and a power-packed energiser, you must add sattu in your diet.</string>
+    <string name="s_2"><b>2.  Amla (Indian gooseberry)</b>
+    Amla, or Indian gooseberry, makes for a popular and healthy fruit, and is known for numerous nutritional benefits. This sour-bitter fruit works as an excellent coolant during hot days. Did you know amla juice contains about 20 times more vitamin-C than any other juice? So, this summer binge on amle ka murabba or amla juice to ensure a healthy you.</string>
+    <string name="s_3"><b>3. Water-rich Fruits</b>
+    Summers also welcome water-rich fruits like watermelon, berries, grapefruits, pineapple, peaches, mango. These fruits will keep you from getting dehydrated and ensure you are refreshed. You can blend these fruits in to delicious juices or eat them as is</string>
+    <string name="s_4"><b>Conclusion</b>
+        <i>Most people believe that the best thing about summer is the amount of binging that is forgiven around this time. We say if you love to eat, why not go in for healthy food that will do your body a world of good? That way, you have the best of both worlds</i></string>
+
+    <string name="top_winter_foods">Top Winter Foods By Ayurveda For Your Diet</string>
+    <string name="w0">There are many foods, specifically available and enjoyed during winters, that can help battle the cold months. They help you keep warm and provide nutrients that are most necessary for the body during winter. </string>
+    <string name="w_0"><b>1. Kindle the fire in your stomach</b>
+    More than half your immunity is driven by the process of digestion. Ayurveda equates digestive strength with a fire (known as \'agni\' in Sanskrit) in the stomach. Because we tend to become fairly lethargic during winters, this agni may lose some of its potency. That\'s why it\'s important to include generous amounts of natural oils, desi ghee, and butter in your diet to keep this flame alive.</string>
+    <string name="w_1"><b>2. Boil your food! </b>
+     Boiled food is one of the best options for winter. Have plenty of soup, stews, and broths made of winter foods. Carrots, beets, green leafy vegetables as well as other root-based vegetables are extremely beneficial and can be had steamed or otherwise. Food we eat in the winter season should always be warm. Try to avoid pre-cooked or packaged meals and choose freshly cooked seasonal vegetables and fruits for your winter diet.</string>
+    <string name="w_2"><b>3. Go Nuts!</b>
+    Dry-fruits are a must for the winters. Cashews, pista, dates, almonds, walnuts - you name it, you eat it! Not only do they help generate heat within the body, they also give you the energy needed to fight winter laziness. </string>
+    <string name="w_3"><b>Conclusion</b>
+        <i>Most people believe that the best thing about winters is the amount of binging that is forgiven around this time. We say if you love to eat, why not go in for healthy food that will do your body a world of good? That way, you have the best of both worlds</i></string>
+
+    <!--Prakriti-->
+    <string name="pitta0">The energy of transformation</string>
+    <string name="pitta_0">
+            Pitta expresses the body\’s metabolic system — made up of Fire and Water. It governs digestion, absorption, assimilation, nutrition, metabolism and body temperature. In balance, pitta promotes understanding and intelligence. Out of balance, pitta arouses anger, hatred and jealousy.</string>
+    <string name="pitta_1"><b>General guidelines for balancing pitta:</b>
+
+        •Avoid excessive heat
+        •Avoid excessive oil
+        •Avoid excessive steam
+        •Limit salt intake
+        •Eat cooling, non-spicy foods
+        •Exercise during the cooler part of the day</string>
+
+    <string name="vata0">The energy of movement</string>
+    <string name="vata_0">
+            Vata is the subtle energy associated with movement — composed of Space and Air. It governs breathing, blinking, muscle and tissue movement, pulsation of the heart, and all movements in the cytoplasm and cell membranes. In balance, vata promotes creativity and flexibility. Out of balance, vata produces fear and anxiety.</string>
+    <string name="vata_1"><b>General guidelines for balancing vata:</b>
+
+    •Keep warm
+    •Keep calm
+    •Avoid cold, frozen or raw foods
+    •Avoid extreme cold
+    •Eat warm foods and spices
+    •Keep a regular routine
+    •Get plenty of rest</string>
+
+    <string name="khapa0">The energy of lubrication &amp; structure</string>
+    <string name="khapa_0">
+            Kapha is the energy that forms the body\’s structure — bones, muscles, tendons — and provides the “glue” that holds the cells together, formed from Earth and Water. Kapha supplies the water for all bodily parts and systems. It lubricates joints, moisturizes the skin, and maintains immunity. In balance, kapha is expressed as love, calmness and forgiveness. Out of balance, it leads to attachment, greed and envy.</string>
+    <string name="khapa_1"><b>General guidelines for balancing kapha:</b>
+    •Get plenty of exercise
+    •Avoid heavy foods
+    •Keep active
+    •Avoid dairy
+    •Avoid iced food or drinks
+    •Vary your routine
+    •Avoid fatty, oily foods
+    •Eat light, dry food
+    •No daytime naps</string>
+
+    <!--About-->
+    <string name="about_us">App Name : Ayurveda App
+    Version : 1.0</string>
+
+
+</resources>
